@@ -59,3 +59,4 @@ class APIClient:
         :return: Объект Response с данными ответа.
         """
         return self.client.delete(url)
+
